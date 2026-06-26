@@ -238,44 +238,6 @@ The following models were trained and evaluated:
 
 ---
 
-# 🏛 Local System Architecture
-
-![Local Architecture](docs/architecture/local_architecture.png)
-
----
-
-# ☁ AWS SageMaker Deployment Architecture
-
-![AWS Architecture](docs/architecture/aws_architecture.png)
-
----
-
-# 📸 Application Screenshots
-
-## Streamlit Dashboard
-
-![Dashboard](docs/screenshots/dashboard_home.png)
-
----
-
-## Prediction Result
-
-![Prediction](docs/screenshots/prediction_result.png)
-
----
-
-## Prediction History
-
-![History](docs/screenshots/prediction_history.png)
-
----
-
-## FastAPI Swagger Documentation
-
-![Swagger](docs/screenshots/fastapi_docs.png)
-
----
-
 # ☁ Local vs AWS SageMaker
 
 | Local Implementation | AWS Equivalent |
