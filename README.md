@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
